@@ -6,7 +6,7 @@ const Home = () => {
             <div className="hero bg-base-200">
                 <div className="hero-content flex-col lg:flex-row-reverse lg:gap-20">
                     <div className="avatar">
-                        <div className="w-60 lg:w-96 rounded-full ring ring-offset-base-100 ring-offset-2">
+                        <div className="w-52 lg:w-80 rounded-full ring ring-offset-base-100 ring-offset-2">
                             <img src="https://i.ibb.co/XkkDKPV/fahim.jpg" />
                         </div>
                     </div>
